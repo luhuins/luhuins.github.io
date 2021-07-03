@@ -1,0 +1,7 @@
+(post
+ :title "你好，世界"
+ :date (make-date* 2021 07 04)
+ :tags '("hello")
+
+ (h1 [你好，世界])
+ (p [Powered by Guile Haunt]))
