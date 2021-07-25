@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Lu Hui 's BLOG</title><id>https://luhuins.github.io/feeds/tags/hello world example.xml</id><subtitle>Tag: hello world example</subtitle><updated>2021-07-25T10:08:58Z</updated><link href="luhuins.github.io/feeds/tags/hello world example.xml" rel="self" /><link href="luhuins.github.io" /><entry><title>Hello World</title><id>https://luhuins.github.io/hello-world.html</id><author><name>Lu Hui</name><email>luhux@foxmail.com</email></author><updated>2021-08-21T20:00:00Z</updated><link href="https://luhuins.github.io/hello-world.html" rel="alternate" /><summary type="html">&lt;h1&gt;
+Hello World
+&lt;/h1&gt;&lt;h2&gt;
+你好世界
+&lt;/h2&gt;&lt;h1&gt;
+  This is an example using raw HTML, because Guile doesn't have a
+  Markdown parser.
+&lt;/h1&gt;&lt;h2&gt;
+  这是一个html示例,因为Guile 没有markdown解释器
+&lt;/h2&gt;</summary></entry></feed>

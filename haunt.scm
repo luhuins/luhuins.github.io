@@ -6,7 +6,7 @@
 
 (site #:title "Lu Hui 's BLOG"
       #:posts-directory "posts/"
-      #:build-directory "docs/"
+      #:build-directory "build/"
       #:domain "luhuins.github.io"
       #:default-metadata
       '((author . "Lu Hui")
